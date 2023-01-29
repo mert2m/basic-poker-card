@@ -1,0 +1,32 @@
+body{
+    background-image: url(C:\Users\panth\Downloads\iris.png);
+    background-size: 100% 100%;
+}
+img{
+    width: 300px;
+    -webkit-transition: width 0.2s;
+}
+img#kral{
+    position: absolute;
+    left:50%
+    margin-left: -150px;
+    margin: top 60px;
+    
+
+}
+img#as{
+    position: absolute;
+    margin-left: 300px;
+    top: 100px;
+    -webkit-transform:rotate(-10deg) ;
+}
+img#joker{
+    position: absolute;
+    right: 300px;
+    top:100px;
+    -webkit-transform: rotate(10deg);
+}
+img:hover{
+    width:350px;
+    z-index: 2;
+}
