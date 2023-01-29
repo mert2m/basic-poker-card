@@ -1,5 +1,6 @@
 # basic-poker-card
-3 card selection sites  extremely simple using html5 and css3 
+3 card selection site extremely simple 
+lang="html5 & css3" 
 
 
 
